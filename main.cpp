@@ -10,6 +10,7 @@ int main()
 
     cout << "Enter two integer number" << endl;
     cin >> a >> b;
-    cout << a + b << endl;
-	cout << a - b << endl;
+    cout << a + b = << a + b << endl;
+	cout << a - b = << a - b << endl;
+	cout << a * b = << a * b << endl;
 }
